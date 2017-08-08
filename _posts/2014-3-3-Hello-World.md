@@ -2,7 +2,7 @@
 layout: post
 title: Mount Rainier Trip Report 09/03/2016
 ---
-## The Facts: ##
+## The Facts:
   
 09/03/2016 08:12 Muir Snowfield ascent  
 Total time: 5:01'50.6 
@@ -34,7 +34,7 @@ Lowest point: 10052 ft
 Temperature: 50.7 
 ____
 
-## Personal commentary. ##  
+## Personal commentary.
 
 On Friday, September 2nd I took an amtrak train the Lacy/Olympia station from Portland.  Kaiao picked me up at about 8:30 PM and we went to his apartment in Dupont Washington. Kaiao’s wife Amanda gave me an air mattress, some sheets to sleep on and she made beef stew for us. We spent some time resituating our gear for departure early the next morning. We departed at 5 AM, drove two hours to Rainier national Park and arrived at 7:20 AM to pick up our permits. The weather on Saturday, September 3 was perfect for climbing, we could see the top half of Rainier very clearly on the drive. We spotted many deer on the way including a few fawns as we took a route that bisects a military base. We arrived at Paradise climbing office to obtain our permits which cost $46 apiece. Then we proceeded to make the final adjustments on our packs. We hit the trail by 8:20 AM. The first 2.5 miles were maintained trail and pavement. 
 
@@ -44,7 +44,7 @@ I set my alarm for 12:30 AM and didn't wake up until 12:39 AM. Conditions were i
 We talked to the ranger and asked advice on how to safely cross the crevasse. The proper technique is to have your partner to back up and take all of the slack out of the rope and brace for a fall with ice axe engaged. That way, the distance of a fall is minimized. This technique works best with three or more in a rope team. Two man roped travel is for experts only as executing an extraction is extremely difficult if the person has to hold a full load while creating a suitable anchor.  
 We arrived at Paradise at about 12:40 PM and he drove two hours back to Dupont Washington. 
 
-## Things to do different next attempt: ##  
+## Things to do different next attempt:
 * Bring picketts, one per person. 
 * Cut cordellette and rig prussic knots beforehand.
 * Using slings as prussics was sloppy and cumbersome
@@ -52,5 +52,5 @@ We arrived at Paradise at about 12:40 PM and he drove two hours back to Dupont W
 * Bring a longer rope. 50m instead of 33 m. 
 * Start later, ascent to Muir will only take 4 hours.
 
-({{ site.baseurl }}/images/post-0/rainier-image-1.jpg)
+![test]({{ site.baseurl }}/images/post-0/rainier-image-1.jpg)
 
