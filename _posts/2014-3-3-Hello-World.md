@@ -3,8 +3,8 @@ layout: post
 title: Mount Rainier Trip Report 09/03/2016
 ---
 ## The Facts:
-  
-09/03/2016 08:12 Muir Snowfield ascent  
+09/03/2016 08:12 AM PST  
+Muir Snowfield ascent  
 Total time: 5:01'50.6  
 Heart rate:123 bpm  
 Distance:4.66 mile  
@@ -19,7 +19,8 @@ Highest point:10098 ft
 Lowest point:5663 ft  
 Temperature:56.1  
 
-09/04/2016 02:44 Ingraham flats ascent  
+09/04/2016 02:44 AM PST  
+Ingraham flats ascent  
 Total time: 3:31'35.2  
 Distance:2.86 mile  
 Speed:0.8 mph  
@@ -35,7 +36,6 @@ Temperature: 50.7
 
 
 ## Personal commentary.
-
 On Friday, September 2nd I took an amtrak train the Lacy/Olympia station from Portland.  Kaiao picked me up at about 8:30 PM and we went to his apartment in Dupont Washington. Kaiao’s wife Amanda gave me an air mattress, some sheets to sleep on and she made beef stew for us. We spent some time resituating our gear for departure early the next morning. We departed at 5 AM, drove two hours to Rainier national Park and arrived at 7:20 AM to pick up our permits. The weather on Saturday, September 3 was perfect for climbing, we could see the top half of Rainier very clearly on the drive. We spotted many deer on the way including a few fawns as we took a route that bisects a military base. We arrived at Paradise climbing office to obtain our permits which cost $46 apiece. Then we proceeded to make the final adjustments on our packs. We hit the trail by 8:20 AM. The first 2.5 miles were maintained trail and pavement. 
 
 Kaiao had some issues with the altitude at about 8000 ft. The last 1000 feet of the vertical gain on the hike were extremely beautiful, we witnessed massive landslides on the south face of Mount Rainier. The accent took about five hours and we arrived just after 1 PM. When we got to the top of the Muir snowfield we took our packs off slept for about 30 minutes at the overlook platform. At about 3 PM the guided groups arrived. The Muir camping area was empty except for two tents and we proceeded to clear a spot with our ice axes in order to set up the tent. It took about two hours to set up camp. We burned water and hydrated our dinner at 5:30 PM and at about 6:30 PM the Ranger began checking permits for everyone in camp. He checked our permit and we asked questions about the route. He made a recommendation that we carry Picketts. Our original plan was to start climbing Cathedral gap at 11PM however, the fact that we did not have adequate protection readily available without sacrificing our ice axes for snow anchors caused me to rethink that decision and leave after the majority of the guided groups in order to ensure that we can follow their boot pack because the climbing route had received a significant amount of snow in the previous days. The ranger had mentioned that there had been multiple unsuccessful attempts to summit during the passed seven days because the Ingraham section was covered in thigh deep snow.  
@@ -50,7 +50,7 @@ We arrived at Paradise at about 12:40 PM and he drove two hours back to Dupont W
 * Using slings as prussics was sloppy and cumbersome
 * Make sure to have a three man rope team
 * Bring a longer rope. 50m instead of 33 m. 
-* Start later, ascent to Muir will only take 4 hours.
+* Start later, ascent to Muir will only take 4 hours.  
 
 ![test]({{ site.baseurl }}/images/post-0/rainier-image - 1.jpg)
 ![_config.yml]({{ site.baseurl }}/images/post-0/rainier-image - 10.jpg)
