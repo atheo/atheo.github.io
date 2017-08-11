@@ -6,33 +6,12 @@ title: Mount Rainier Trip Report 09/03/2016
 09/03/2016 08:12 AM PST  
 Muir Snowfield ascent  
 Total time: 5:01'50.6  
-Heart rate:123 bpm  
 Distance:4.66 mile  
-Speed:0.9 mph  
-Calories:1906 kcal  
-Ascent:4531 ft  
-Descent:75 ft  
-Ascent time:3:37'39  
-Descent time:0:13'21  
-Flat time:1:10'50.6 
-Highest point:10098 ft  
-Lowest point:5663 ft  
-Temperature:56.1  
 
 09/04/2016 02:44 AM PST  
 Ingraham flats ascent  
 Total time: 3:31'35.2  
 Distance:2.86 mile  
-Speed:0.8 mph  
-Calories:552 kcal  
-Ascent:1421 ft  
-Descent:1480 ft  
-Ascent time:1:12'45  
-Descent time:1:02'44  
-Flat time: 1:16'06.2  
-Highest point: 11417 ft  
-Lowest point: 10052 ft  
-Temperature: 50.7  
 
 
 ## Personal commentary.
