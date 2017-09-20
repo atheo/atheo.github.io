@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mount Rainier Trip Report 09/03/2016
+title: Mount Rainier
 ---
 ## The Facts:
 09/03/2016 08:12 AM PST  
