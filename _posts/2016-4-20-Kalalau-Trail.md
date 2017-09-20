@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Kalalau Trail Hike
+title: Kalalau Trail
 ---
-
+##Kalalau Trail Hike  
 
 Monday morning (04/18) we went to the Petit Café for breakfast with the intent to watch public website on our phones for updates on whether the Kalalau trail was going to open. It had been closed for the previous three days because of flash flood danger.
 It finally opened at around 11 AM so we packed up our stuff at the airbnb and went to the trailhead. When we got there, we started our pre hike gear shuffle as we started to walk up to the trailhead I ran into Wim Arts, the Avy 101 instructor for the Mazamas avalance saftey course I took a few weeks earlier.
