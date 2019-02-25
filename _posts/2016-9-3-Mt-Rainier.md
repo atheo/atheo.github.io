@@ -24,7 +24,7 @@ We talked to the ranger and asked advice on how to safely cross the crevasse. Th
 We arrived at Paradise at about 12:40 PM and he drove two hours back to Dupont Washington. 
 
 ### Things to do differently on the next attempt:
-* Bring picketts, one per person. 
+* Bring picketts, one per person
 * Cut cordellette and rig prussic knots beforehand.
 * Using slings as prussics was sloppy and cumbersome
 * Make sure to have a three man rope team
